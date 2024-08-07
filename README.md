@@ -9,5 +9,5 @@ See the other links
 
 # Basic Deployment form CrunchyBase Postgres Operator 
 
-For some reason the [this](https://access.crunchydata.com/documentation/postgres-operator/latest/quickstart) uses Keycloak as an example
+For some reason the [this](https://access.crunchydata.com/documentation/postgres-operator/latest/quickstart) uses Keycloak as an example and it mostly works. See [postgres-operator](./postgres-operator) for this approach
 
